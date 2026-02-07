@@ -8,7 +8,7 @@ My work focuses on NLP, deep learning, and decision-support systems where model 
 📍 Chennai, India  
 📧 praneshrams1@gmail.com  
 🔗 GitHub: https://github.com/praneshrams07  
-🔗 LinkedIn: (add link)
+
 
 ---
 
